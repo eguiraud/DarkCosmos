@@ -6,7 +6,7 @@ $( function () {
 	/**
 	 * Focus on search box when 'Tab' key is pressed once
 	 */
-	$( '#searchInput' ).attr( 'tabindex', $( document ).lastTabIndex() + 1 );
+	$( '#searchInput' ).attr( 'tabindex', 1);
 
 	/**
 	 * Desktop menu click-toggling

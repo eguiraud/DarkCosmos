@@ -65,7 +65,6 @@
                 "resources/main.js"
             ],
             "dependencies": [
-                "jquery.tabIndex"
             ]
         },
         "skins.darkcosmos.mobile": {
